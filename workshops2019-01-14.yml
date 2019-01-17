@@ -1,0 +1,15 @@
+workshops:
+- description: "This beginner-level workshop will explain what AI and cloud computing\
+    \ are in simple terms then show you how to add AI to your project in just a few\
+    \ lines of code.\n\t\nExpect to learn:\n\u25CB What is cloud computing\n\u25CB\
+    \ What is AI\n\u25CB How to add AI to your project \n\nTechnical prerequisites:\n\
+    \u25CB Basic understanding of cloud computing\n\u25CB Basic coding skills (call\
+    \ REST APIs, work with JSON, etc.)\n"
+  name: How to Hack with AI
+  time: ''
+- description: ''
+  name: Software opportunities with Graphcore
+  time: ''
+- description: ''
+  name: ''
+  time: ''

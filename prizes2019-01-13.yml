@@ -1,0 +1,60 @@
+prizes:
+- description: "TPP are excited to announce a competition for the Cambridge Hackathon.\
+    \  At TPP, we are revolutionising patient healthcare, both within the NHS and\
+    \ across the world. To do this, our Software Developers are always looking at\
+    \ improvements to our system and working on new ways to give patients more control\
+    \ over their own care. This year we want to give you a chance to test your skills\
+    \ by creating your own revolutionary design for the healthcare industry.  TPP\
+    \ will be providing access to dummy patient data from SystmOne, one of the UK\u2019\
+    s largest digital healthcare systems. You will be able to integrate with SystmOne,\
+    \ retrieving patient data and booking appointments. Access will be available to\
+    \ demographic data, appointment information, drug history, allergies and medical\
+    \ sensitivities.  You will have free range to use this data, perhaps to develop\
+    \ an app or piece of software that could be used to improve patient care. You\
+    \ could create a revolutionary new appointment booking system or a personal healthcare\
+    \ application- the possibilities are endless."
+  name: Medical Record Integration
+  prize: Raspberry Pi Starter Kit with 7 inch touch screen
+- description: https://docs.google.com/document/d/1yOfIJGWMk7RYfaZFOWpobIkfOA4qHYZkLEkCamEXU50/edit?usp=sharing
+  name: TransferWise Hack
+  prize: "\xA3100 amazon Voucher and Interview for paid internship this summer"
+- description: 'Create an browser extension to call CCleaner actions from within Avast
+    Secure Browser. Use the cleaning and analysis functionality to enhance user privacy
+    online. Get creative: explore the full possibilities of what can be done with
+    this integration.'
+  name: Integrate the Avast Secure Browser and CCleaner products to improve user privacy,
+    prevent website tracking & reduce browsing footprints
+  prize: "4x Oculus Go VR headsets (32GB) worth \xA31,000 for the winning team"
+- description: 'For Hack Cambridge Monzo is exposing an API to allow you to send us
+    receipt information for your transactions. This information will be displayed
+    in the app in the details screen for that transaction. The challenge is to figure
+    out a way of automatically getting useful receipts into Monzo! Some ideas: 1.
+    Parse email receipts for purchases 2. Use OCR on images of paper receipts 3. Use
+    an api of another company - Uber, Deliveroo, TFL?  Talk to the Monzo mentors for
+    help getting started!'
+  name: 'Monzo Receipts API Prize '
+  prize: 'x4 lego goodies '
+- description: ''
+  name: ''
+  prize: ''
+- description: "Any team that chooses to enter will evaluated on the following criteria:\
+    \ Judging criteria: 1. Was the project developed using Microsoft Azure? (required\
+    \ for entry) 2. Does the project address a clear need, problem, or opportunity\
+    \ and is the solution clearly explained? (10 points) 3. Does the project include\
+    \ innovations in technical design\_and/or implementation of services (e.g., Cognitive\
+    \ Services, Bot Services, IoT Hub, Functions)\_and/or user experience? (20 points)\
+    \ 4. Does the project have a clear target market or audience? (5 points) 5. Is\
+    \ the project\u2019s purpose and basic functionality easily understood? (5 points)\
+    \ 6. Does the project have a professional degree of production in terms of performance,\
+    \ user interface, visuals, and audio? (10 points) Winner is highest total score\
+    \ out of 50. Tie-break: Does the team have a credible plan for getting their project\
+    \ to market in terms of business model, any required partnerships, or other factors?"
+  name: Azure Champ Prize
+  prize: Automatic entry in Imagine Cup 2019 Semi-Finals and two chances to become
+    one of the few elite teams at our regional finals, plus Xbox One Xs for each team
+    member!
+- description: The best hack involving something other than your laptop or modile
+    phone. This could be a smart light bulb, a fitness tracker, a micro-controller,
+    a raspberry pi or an eeg headset.
+  name: Best Haredware Hack Prize Sponsored by Arm
+  prize: "Raspberry Pi Zero Kit and \xA350 Amazon Voucher"
