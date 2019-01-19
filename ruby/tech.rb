@@ -3,6 +3,8 @@
 
 require_relative 'extract_yaml'
 
-extract_yaml 'tech', flatten: true do |id, content|
-  content['tech']&.collect { |item| item.slice('description', 'link', 'name') }
+def extract_tech
+  extract_yaml 'tech', flatten: true do |id, content|
+    content['tech']&.collect { |item| item.slice('description', 'link', 'name') }
+  end
 end

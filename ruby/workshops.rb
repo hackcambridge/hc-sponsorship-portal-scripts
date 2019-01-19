@@ -3,4 +3,8 @@
 
 require_relative 'extract_yaml'
 
-extract_yaml 'workshops' { |id, content| content['workshop']&.slice('description', 'title') }
+def extract_workshops
+  extract_yaml 'workshops' do |id, content|
+    content['workshop']&.slice('description', 'title')
+  end
+end
